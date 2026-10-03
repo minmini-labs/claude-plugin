@@ -1,0 +1,15 @@
+{
+  "name": "minmini",
+  "owner": { "name": "minmini", "url": "https://minmini.so" },
+  "metadata": { "description": "Games to play while Claude works." },
+  "plugins": [
+    {
+      "name": "minmini",
+      "source": "./",
+      "description": "Play minmini games while Claude works: Imposter against an AI crew in your terminal chat, open public rooms to join, and a waiting-room pane that tells you when Claude is done.",
+      "version": "1.0.0",
+      "homepage": "https://minmini.so/connect",
+      "keywords": ["games", "imposter", "mcp"]
+    }
+  ]
+}
