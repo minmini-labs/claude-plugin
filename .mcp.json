@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "minmini": { "type": "http", "url": "https://minmini.so/mcp" }
+  }
+}

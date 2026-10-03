@@ -1,0 +1,9 @@
+{
+  "name": "minmini",
+  "version": "1.0.0",
+  "description": "Play minmini games while Claude works: Imposter against an AI crew in your terminal chat, open public rooms to join, and a waiting-room pane that tells you when Claude is done.",
+  "author": { "name": "minmini", "url": "https://minmini.so" },
+  "homepage": "https://minmini.so/connect",
+  "license": "MIT",
+  "keywords": ["games", "imposter", "mcp", "minmini"]
+}
